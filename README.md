@@ -1,1 +1,1 @@
-# privacy_policy-Fabric-selector
+# privacy_policy
