@@ -9,7 +9,7 @@
   <h1>Privacy Policy</h1>
   <p><strong>App Name:</strong> Fabric selector free <br>
      <strong>Developer:</strong> Pattern<br>
-     <strong>Effective Date:</strong> June 12, 2025</p>
+     <strong>Effective Date:</strong> June 15, 2025</p>
 
   <p>We value your privacy. This Privacy Policy explains what data we may collect when you use our app, how we use it, and what third-party services are involved.</p>
 
