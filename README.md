@@ -7,7 +7,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px;">
   <h1>Privacy Policy</h1>
-  <p><strong>App Name:</strong> Fabric selector free <br>
+  <p><strong>App Name:</strong> Visual Fabric selector <br>
      <strong>Developer:</strong> Pattern<br>
      <strong>Effective Date:</strong> June 15, 2025</p>
 
